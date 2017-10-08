@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\MantraLabs\Git\DirectC-master\DirectC-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_6bb93f26212f3cf8627725f903c02039bbd0a722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MantraLabs\Git\DirectC-master\DirectC-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\MantraLabs\Git\DirectC-master\DirectC-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_a35a43a8d1698d1cd1a7b1f8b344aaa8dcfdd654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MantraLabs\Git\DirectC-master\DirectC-master\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\MantraLabs\Git\DirectC-master\DirectC-master\app\build\intermediates\pre-dexed\debug\commons-io-2.4_268eb49e0133ec2c2bded706c6544bf56b0efe73.jar" />
+    </item>
+
+</items>

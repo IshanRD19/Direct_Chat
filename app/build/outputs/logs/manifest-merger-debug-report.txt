@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:2:1-91:12
+	package
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] D:\MantraLabs\Git\DirectC-master\DirectC-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:17:5-19:35
+	android:required
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:19:9-32
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:18:9-49
+uses-feature#android.hardware.camera.any
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:21:19-61
+application
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:23:5-89:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] D:\MantraLabs\Git\DirectC-master\DirectC-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:25:9-48
+	android:theme
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:27:9-52
+service#com.android.DirectC.MessageService
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:28:9-30:38
+	android:enabled
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:30:13-35
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:29:13-62
+activity#com.android.DirectC.MainActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:33:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.android.DirectC.ChatActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:44:13-56
+	android:launchMode
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:45:13-43
+	android:configChanges
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:42:13-60
+activity#com.android.DirectC.ViewImageActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:47:9-53:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:50:13-62
+	android:parentActivityName
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:51:13-74
+	android:configChanges
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:49:13-74
+	android:theme
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:52:13-51
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:48:13-65
+activity#com.android.DirectC.RecordAudioActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:54:9-59:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:56:13-64
+	android:parentActivityName
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:57:13-74
+	android:configChanges
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:58:13-74
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:55:13-67
+activity#com.android.DirectC.PlayVideoActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:62:13-62
+	android:configChanges
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:63:13-74
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:61:13-65
+activity#com.android.DirectC.FilePickerActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:65:9-70:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:67:13-63
+	android:parentActivityName
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:68:13-74
+	android:configChanges
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:66:13-66
+activity#com.android.DirectC.WebViewActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:71:9-84:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:74:13-60
+	android:parentActivityName
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:75:13-74
+	android:configChanges
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:72:13-63
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:76:13-83:29
+action#android.intent.action.VIEW
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:77:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:79:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:80:17-78
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:80:27-75
+data
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:82:17-51
+	android:scheme
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:82:23-48
+activity#com.android.DirectC.DrawingActivity
+ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:85:9-88:20
+	android:label
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:87:13-59
+	android:name
+		ADDED from D:\MantraLabs\Git\DirectC-master\DirectC-master\app\src\main\AndroidManifest.xml:86:13-63

@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_picker.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_file_picker.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brush_chooser.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\brush_chooser.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_row.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\chat_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_audio.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_record_audio.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_row.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\chat_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_image.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_view_image.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_audio.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_record_audio.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_image.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_view_image.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_picker.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_file_picker.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_video.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_play_video.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brush_chooser.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\brush_chooser.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_video.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_play_video.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drawing.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\src\\main\\res\\layout\\activity_drawing.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drawing.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\layout\\activity_drawing.xml"
+    }
+]

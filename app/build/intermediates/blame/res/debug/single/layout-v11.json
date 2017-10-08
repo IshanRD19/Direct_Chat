@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_simple_decor.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "D:\\MantraLabs\\Git\\DirectC-master\\DirectC-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_simple_decor.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_simple_decor.xml"
+    }
+]
